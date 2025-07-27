@@ -6,4 +6,15 @@ This project showcases an interactive and comprehensive Hospital Management Anal
 # Features Included:
 - Overview Dashboard:
     - Summary of key metrics such as patient count, bed and stock status, appointments, discharges, and charge types.
+- Patient Dashboard:  
+    - Detailed patient profiles including diagnosis, personal information, bill amount, medicine usage, discharge summary, and satisfaction rating.
+
+- Doctor Dashboard:  
+    - Information about doctors including salary, department, patient spend, commission calculator, and appointment tracking.
+
+- Hospital Dashboard:  
+    - Insights on surgeries, appointments, bed utilization by room type, and medical test results by age category.
+
+- Finance Dashboard:  
+    - Comprehensive financial view including salary expenses, patient payments, bill count, and detailed analysis of monthly medicine sales and stock status.
 
