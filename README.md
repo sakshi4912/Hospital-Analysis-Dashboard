@@ -27,3 +27,6 @@ This project showcases an interactive and comprehensive Hospital Management Anal
 - Monthly Billing & Charges Type Breakdown
 - Department & Doctor Analytics
 - Medical Test Results by Age Group
+
+## Dashboards
+<a href="https://example.com" target="_blank">Click here to view the dashboard</a>
