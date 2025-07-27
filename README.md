@@ -35,4 +35,5 @@ This project showcases an interactive and comprehensive Hospital Management Anal
 - <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Patient_2.png">Patient_2</a>
 - <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Doctor.png">Doctor</a>
 - <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Hospital.png">Hospital</a>
-- <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Home.png">Home</a>
+- <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/finance.png">Finance</a>
+- <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/finance.png">Finance</a>
