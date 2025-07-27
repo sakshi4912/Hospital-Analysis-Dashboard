@@ -5,4 +5,5 @@ This project showcases an interactive and comprehensive Hospital Management Anal
 
 # Features Included:
 - Overview Dashboard
+  
       Summary of key metrics such as patient count, bed and stock status, appointments, discharges, and charge types.
