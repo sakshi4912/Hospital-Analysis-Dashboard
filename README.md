@@ -30,7 +30,7 @@ This project showcases an interactive and comprehensive Hospital Management Anal
 
 ## Dashboards
 - <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Home.png">Home</a>
-- <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Home.png">Home</a>
+- <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Overview.png">Overview</a>
 - <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Home.png">Home</a>
 - <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Home.png">Home</a>
 - <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Home.png">Home</a>
