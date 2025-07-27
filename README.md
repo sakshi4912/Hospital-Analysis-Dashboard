@@ -29,4 +29,9 @@ This project showcases an interactive and comprehensive Hospital Management Anal
 - Medical Test Results by Age Group
 
 ## Dashboards
-<a href="https://example.com" target="_blank">Click here to view the dashboard</a>
+- <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Home.png">Home</a>
+- <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Home.png">Home</a>
+- <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Home.png">Home</a>
+- <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Home.png">Home</a>
+- <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Home.png">Home</a>
+- <a href="https://github.com/sakshi4912/Hospital-Analysis-Dashboard/blob/main/Home.png">Home</a>
