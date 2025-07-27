@@ -19,3 +19,11 @@ This project showcases an interactive and comprehensive Hospital Management Anal
 - Finance Dashboard:  
     - Comprehensive financial view including salary expenses, patient payments, bill count, and detailed analysis of monthly medicine sales and stock status.
 
+# Key Metrics Tracked
+- Total Patients & Staff
+- Bed Occupancy Rate
+- Appointment Scheduling
+- Medicine Stock vs. Sale
+- Monthly Billing & Charges Type Breakdown
+- Department & Doctor Analytics
+- Medical Test Results by Age Group
